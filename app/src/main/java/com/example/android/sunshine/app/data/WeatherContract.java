@@ -54,6 +54,9 @@ public class WeatherContract {
         return time.setJulianDay(julianDay);
     }
 
+
+
+    
     /* Inner class that defines the table contents of the location table */
     public static final class LocationEntry implements BaseColumns {
 
